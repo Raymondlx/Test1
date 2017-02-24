@@ -2,6 +2,7 @@
  * Created by raymond on 17-1-13.
  */
 public class FizzBizz {
+//Test
     public static void fizzBizz(int n) {
         for (int i = 1; i <= n; i++) {
             if (i % 3 == 0 && i % 5 != 0) {
